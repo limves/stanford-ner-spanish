@@ -1,12 +1,183 @@
+2.7.1.1.	 	
 Almacenamiento de CFDI
+ 	 	
 Para los efectos de los artículos 28, fracción I, primer párrafo y 30, cuarto párrafo del CFF, los contribuyentes que expidan y reciban CFDI, deberán almacenarlos en medios magnéticos, ópticos o de cualquier otra tecnología, en su formato electrónico XML.
+
 Lo establecido en la presente regla no será aplicable a los contribuyentes que utilicen el sistema de registro fiscal que refiere la regla 2.8.1.5.
+ 	 	
+CFF 28, 30, RMF 2016 2.8.1.5.
+ 	 	 
+2.7.1.10.	 	
+CFDI globales expedidos por instituciones de crédito por intereses exentos
+ 	 	
+Para los efectos del artículo 29, último párrafo del CFF, las instituciones de crédito podrán expedir los CFDI globales mensuales en los que se incluyan los montos totales pagados a sus clientes, durante el mes que corresponda, por concepto de los intereses a que se refiere el artículo 93, fracción XX, inciso a) de la Ley del ISR.
+ 	 	
+CFF 29, LISR 93
+ 	 	 
+2.7.1.11.	 	
+Enajenación de vehículos nuevos o usados en la que se recibe en contraprestación un vehículo usado y dinero
+ 	 	
+Para los efectos del artículo 29, último párrafo del CFF en relación con la regla 3.3.1.3., en el caso de operaciones en las cuales se enajenen vehículos nuevos o usados y se reciba como pago resultado de esa enajenación un vehículo usado y dinero se estará a lo siguiente:
 
-Para los efectos de los artículos 29, párrafos primero, segundo, fracción VI y último párrafo, y 29-A, primer párrafo, fracción VII, inciso b) del CFF, cuando las contraprestaciones no se paguen en una sola exhibición, se emitirá un CFDI por el valor total de la operación en el momento en que ésta se realice y posteriormente se expedirá un CFDI por cada uno de los pagos que se efectúen, en el que se deberá señalar “cero pesos” en el monto total de la operación y como “método de pago” la expresión “pago” debiendo incorporar al mismo el “Complemento para pagos”.
-	El monto del pago se aplicará proporcionalmente a los conceptos integrados en el comprobante emitido por el valor total de la operación a que se refiere el primer párrafo de la presente regla.
-	Los contribuyentes que realicen el pago de la contraprestación en una sola exhibición, pero ésta no sea cubierta al momento de la expedición del CFDI, incluso cuando se trate de operaciones a crédito y estas se paguen totalmente en fecha posterior a la emisión del CFDI correspondiente, deberá utilizar, siempre que se trate del mismo ejercicio fiscal, el mecanismo contenido en la presente regla para reflejar el pago con el que se liquide el importe de la operación.
-	Cuando ya se cuente con al menos un CFDI que incorpore el “Complemento para pagos” que acrediten que la contraprestación ha sido total o parcialmente pagada, el CFDI emitido por el total de la operación no podrá ser objeto de cancelación, las correcciones deberán realizarse mediante la emisión de CFDI de egresos por devoluciones, descuentos y bonificaciones.
-	Por lo que respecta a la emisión del CFDI con “Complemento para pagos”, cuando en el comprobante existan errores, éste podrá cancelarse siempre que se sustituya por otro con los datos correctos y cuando se realicen a más tardar el último día del ejercicio en que fue emitido el CFDI.
-	CFF 29, 29-A, RCFF 37
-	Obligaciones y requisitos de los proveedores de certificación de CFDI
+I. Los contribuyentes que enajenen vehículos nuevos a personas físicas que no tributen en los términos del Título IV, Capítulo II, Secciones I y II de la Ley del ISR, y que reciban como pago resultado de esa enajenación un vehículo usado y dinero, incorporarán en el CFDI que expidan por la enajenación del vehículo nuevo a la persona física, el complemento que para tal efecto publique el SAT en su portal, y además deberán conservar lo siguiente:
 
+a) Comprobante fiscal en papel o comprobante fiscal digital o CFDI que ampare la adquisición del vehículo usado por parte de la persona física y que está siendo enajenado.
+
+b) Copia de la identificación oficial de la persona física que enajena el vehículo usado.
+
+c) Contrato que acredite la enajenación del vehículo nuevo de que se trate, en el que se señalen los datos de identificación del vehículo usado enajenado y recibido como parte del pago, el monto del costo total del vehículo nuevo que se cubre con la enajenación del vehículo usado y el domicilio de la persona física.
+
+d) Copia del documento en donde se acredite que se ha realizado el trámite vehicular de cambio de propietario del vehículo usado que se enajena por parte de la persona física.
+
+Los contribuyentes a que se refiere el primer párrafo de esta fracción, deberán adicionar el complemento al CFDI que se emita por la venta del vehículo nuevo, en el que consten los datos del vehículo usado enajenado por parte de la persona física.
+
+El CFDI al que se adicione el complemento a que se refiere el párrafo anterior, será válido para que los emisores del mismo puedan deducir el gasto para efectos del ISR.
+
+La persona física que enajena el vehículo usado, deberá estar inscrita en el RFC, cuando no cuente con este requisito podrá realizar dicha inscripción directamente ante el SAT, o bien, a través del enajenante del vehículo nuevo, debiendo proporcionar a este último lo siguiente:
+
+1. Nombre.
+
+2. CURP o copia del acta de nacimiento.
+
+3. Domicilio fiscal.
+
+Los contribuyentes que enajenan el vehículo nuevo, deberán conservar documento firmado por la persona física que enajena el vehículo usado en donde le autorice a realizar dicha inscripción.
+
+Los contribuyentes que enajenen vehículos nuevos, deberán efectuar la retención que corresponda a la persona física que realice la enajenación del vehículo usado que reciban como parte del pago, de acuerdo a lo dispuesto en el artículo 126, cuarto y quinto párrafos de la Ley del ISR, así como en la regla 3.15.7. Las personas físicas a las que, en su caso, les sea retenido el ISR, podrán considerarlo como pago definitivo, sin deducción alguna.
+
+II. Las personas físicas que tributen en los términos del Título IV, Capítulo II, Secciones I y II de la Ley del ISR, así como las personas morales que enajenen vehículos usados a personas físicas que no tributen en los términos del Título IV, Capítulo II, Secciones I y II de la Ley del ISR, y que reciban como pago resultado de esa enajenación vehículos usados y dinero, podrán expedir el CFDI en términos de la regla 2.7.3.6.
+
+Al CFDI que se expida con motivo de dicha operación, se deberá incorporar el complemento a que hace referencia la fracción I, primer párrafo de esta regla, con los datos del o de los vehículos usados que se entregan como medio de extinción de la obligación, debiendo incorporar igual número de complementos que de vehículos usados se entreguen como medio de pago, adicionalmente ambas partes deberán solicitar de su contraparte los siguientes documentos:
+
+a) Copia del documento en donde se acredite que se ha realizado el trámite vehicular de cambio de propietario del vehículo o vehículos usados correspondientes.
+
+b) Contrato que acredite la enajenación del vehículo usado, objeto de la operación en el que se señalen los datos de identificación del vehículo o vehículos usados enajenados y recibidos como parte del pago, el monto del costo total del vehículo objeto de la operación que se cubre con la enajenación del vehículo o vehículos usados, y el domicilio de la persona física que cubre la totalidad o parte de la contraprestación con los citados vehículos.
+
+c) Contrato que acredite la adquisición del vehículo o vehículos usados que se entregan en contraprestación como medio de extinción de la obligación, en el que se señalen los datos de identificación del vehículo o de los vehículos, el monto de la contraprestación o precio pagado y el domicilio de la persona que enajenó el vehículo de referencia, así como del adquirente del mismo.
+
+d) Copia de la identificación oficial de la contraparte si es persona física y del representante legal si es persona moral.
+
+e) Comprobante fiscal en papel, comprobante fiscal digital o CFDI que ampare la adquisición de cada uno de los vehículos que se entregan en contraprestación para extinguir la obligación.
+
+La persona física que extinga la contraprestación en los términos del primer párrafo de esta fracción, deberá estar inscrita en el RFC, cuando no cuente con este requisito podrá realizar dicha inscripción directamente ante el SAT, o bien, a través de la persona física o moral enajenante, debiendo proporcionar a estos últimos lo siguiente:
+
+1. Nombre.
+
+2. CURP o copia del acta de nacimiento.
+
+3. Domicilio fiscal.
+
+La persona física o moral enajenante deberá conservar documento firmado por la persona física que extinga la contraprestación, en donde le autorice a realizar dicha inscripción.
+
+La persona física o moral enajenante, deberá efectuar la retención que corresponda a la persona física que realice la enajenación del vehículo usado entregado como parte del pago o contraprestación, de acuerdo a lo dispuesto en el artículo 126, cuarto y quinto párrafos de la Ley del ISR, así como en la regla 3.15.7. Las personas físicas a las que en su caso les sea retenido el ISR, podrán considerarlo como pago definitivo, sin deducción alguna.
+ 	 	
+CFF 29, LISR 93, 126, RLIVA 27, RMF 2016 2.4.3., 2.7.3.6., 3.3.1.3., 3.15.7.
+2da. RMRMF publicada en el DOF el 6 de mayo de 2016.
+ 	 	 
+2.7.1.12.	 	
+CFDI como constancia de retención del IVA en servicios de autotransporte de carga federal
+ 	 	
+Para los efectos de los artículos 29 del CFF y 1-A, fracción II, inciso c), en relación con el 32, fracción V de la Ley del IVA, el CFDI que expida el prestador del servicio en donde conste el monto del IVA retenido por la persona moral, podrá también considerarse como constancia de retenciones de dicho impuesto.
+ 	 	
+CFF 29, LIVA 1-A, 32
+ 	 	 
+2.7.1.13.	 	
+Pago de erogaciones por cuenta de terceros
+ 	 	
+Para los efectos de los artículos 29 del CFF, así como 18, fracción VIII y 90, sexto párrafo de la Ley del ISR y 41 de su Reglamento, los contribuyentes que paguen por cuenta de terceros las contraprestaciones por los bienes o servicios proporcionados a dichos terceros y posteriormente recuperen las erogaciones realizadas, deberán proceder de la siguiente manera:
+
+I. Los CFDI deberán cumplir los requisitos del artículo 29-A del CFF, así como con la clave en el RFC del tercero por quien efectuó la erogación.
+
+II. Los terceros, en su caso, tendrán derecho al acreditamiento del IVA en los términos de la Ley de dicho impuesto y su Reglamento.
+
+III. El contribuyente que realice el pago por cuenta del tercero, no podrá acreditar cantidad alguna del IVA que los proveedores de bienes y prestadores de servicios trasladen.
+
+IV. El reintegro a las erogaciones realizadas por cuenta de terceros, deberá hacerse con cheque nominativo a favor del contribuyente que realizó el pago por cuenta del tercero o mediante traspasos a sus cuentas por instituciones de crédito o casas de bolsa sin cambiar los importes consignados en el CFDI expedido por los proveedores de bienes y prestadores de servicios, es decir por el valor total incluyendo el IVA que en su caso hubiera sido trasladado.
+
+Independientemente de la obligación del contribuyente que realiza el pago por cuenta del tercero de expedir CFDI por las contraprestaciones que cobren a los terceros, deberán entregar a los mismos el CFDI expedido por los proveedores de bienes y prestadores de servicios.
+ 	 	
+CFF 29, 29-A, LISR 18, 90, RLISR 41
+ 	 	 
+2.7.1.14.	 	
+Expedición del CFDI a contribuyentes del RIF por enajenaciones realizadas durante el mes
+ 	 	
+Para los efectos de los artículos 29, párrafos primero, segundo fracciones IV, V y último párrafo del CFF y 39 del Reglamento del CFF, en relación con los artículos 16, 17 y 102 de la Ley del ISR, aquellos contribuyentes que perciban ingresos por enajenaciones realizadas durante un mes calendario a un mismo contribuyente del RIF, podrán diferir la emisión de los CFDI correspondientes a dichas transacciones, a efecto de emitir a más tardar dentro de los tres días hábiles posteriores al último día del mes de que se trate, un solo CFDI que incluya todas las operaciones realizadas dentro de dicho mes con el mismo contribuyente, para ello deberán cumplir con lo siguiente:
+
+I. Que los ingresos que perciban por las operaciones señaladas en el primer párrafo de esta regla provengan de enajenaciones realizadas a contribuyentes del RIF.
+
+II. Llevar un registro electrónico que contenga información de cada una de las operaciones realizadas durante el mes calendario con cada uno de los contribuyentes a los que se les expedirá el CFDI de manera mensual.
+
+III. Considerar como fecha de expedición del CFDI, el último día del mes por el que se emita el mismo.
+
+IV. En el CFDI que se emita, en el campo descripción del servicio, se deberá detallar la información a que se refiere la fracción II de la presente regla. 
+
+Para los efectos de lo dispuesto en el artículo 112, fracción V de la Ley del ISR, la limitante del pago en efectivo se entenderá hecha a cada una de las operaciones de compra incluidas en el CFDI y no a la suma total de las mismas.
+
+Las operaciones celebradas con contribuyentes del RIF, por las que se aplique la facilidad contenida en esta regla, no se incluirán en el CFDI diario, semanal o mensual por operaciones celebradas con el público en general a que se refiere la regla 2.7.1.24. 
+
+La opción a que se refiere esta regla no podrá variarse en el ejercicio en que se haya tomado, y es sin menoscabo del cumplimiento de las demás obligaciones establecidas en materia de CFDI.
+ 	 	
+CFF 29, LISR 16, 17, 102, 112, RCFF 39, RMF 2016 2.7.1.24.
+ 	 	 
+2.7.1.15.	 	
+Plazo para entregar o enviar al cliente del sector financiero el CFDI
+ 	 	
+Para los efectos de los artículos 29 y 29-A del CFF, las instituciones de crédito, las casas de bolsa, las sociedades operadoras de fondos de inversión, las distribuidoras de acciones de fondos de inversión, las sociedades financieras de objeto múltiple reguladas, las sociedades financieras populares autorizadas para operar como entidades de ahorro y crédito popular en los términos de la Ley de Ahorro y Crédito Popular, las empresas comerciales no bancarias emisoras de las tarjetas de servicio a que se refiere la regla 2.7.1.33. y las administradoras de fondos para el retiro podrán entregar o enviar a sus usuarios el CFDI respectivo, en la fecha de corte que corresponda.
+
+Las entidades a que se refiere el párrafo anterior también podrán entregar o enviar los CFDI mencionados en el plazo que establezca la normatividad financiera que les resulte aplicable.
+ 	 	
+CFF 29, 29-A, RMF 2016 2.7.1.33.
+ 	 	 
+2.7.1.16.	 	
+Comprobantes fiscales emitidos por residentes en el extranjero sin establecimiento permanente en México
+ 	 	
+Para los efectos de los artículos 29, antepenúltimo párrafo y 29-A último párrafo del CFF, los contribuyentes que pretendan deducir o acreditar fiscalmente con base en comprobantes emitidos por residentes en el extranjero sin establecimiento permanente en México, podrán utilizar dichos comprobantes siempre que contengan los siguientes requisitos:
+
+I. Nombre, denominación o razón social; domicilio y, en su caso, número de identificación fiscal, o su equivalente, de quien lo expide.
+
+II. Lugar y fecha de expedición.
+
+III. Clave en el RFC de la persona a favor de quien se expida o, en su defecto, nombre, denominación o razón social de dicha persona.
+
+IV. Los requisitos establecidos en el artículo 29-A, fracción V, primer párrafo del CFF.
+
+V. Valor unitario consignado en número e importe total consignado en número o letra.
+
+VI. Tratándose de la enajenación de bienes o del otorgamiento de su uso o goce temporal, el monto de los impuestos retenidos, así como de los impuestos trasladados, desglosando cada una de las tasas del impuesto correspondiente.
+
+Lo dispuesto en la presente regla, tratándose de la enajenación de bienes o del otorgamiento de su uso o goce temporal, sólo será aplicable cuando dichos actos o actividades sean efectuados en territorio nacional de conformidad con la Ley del IVA.
+ 	 	
+CFF 28, 29, 29-A, LIVA 1
+ 	 	 
+2.7.1.17.	 	
+Comprobantes fiscales de centros cambiarios y casas de cambio
+ 	 	
+Para los efectos del artículo 29 del CFF, en relación con el artículo 29-A de dicho ordenamiento, los centros cambiarios y las casas de cambio tendrán que identificar las operaciones de compra y de venta de divisas que realizan, haciendo mención expresa de que los CFDI se expiden por la “compra”, o bien, por la “venta” de divisas, para lo cual deberán utilizar el complemento respectivo publicado por el SAT en su portal.
+ 	 	
+CFF 29, 29-A, RMF 2016 2.7.1.8.
+ 	 	 
+2.7.1.18.	 	
+Expedición de comprobantes por las Administradoras de Fondos para el Retiro
+ 	 	
+Para los efectos de los artículos 29 y 29-A del CFF, las administradoras de fondos para el retiro que emitan estados de cuenta en los términos de la Ley de los Sistemas de Ahorro para el Retiro, podrán expedir CFDI globales en donde se incluyan los montos totales cobrados, durante el periodo que corresponda, a sus clientes por concepto de comisiones.
+
+Dichos CFDI deberán emitirse en la periodicidad que determine la Ley de los Sistemas de Ahorro para el Retiro, o aquélla que la substituya, para efectos de emitir los estados de cuenta referidos en el párrafo anterior.
+
+Para los efectos del artículo 29-A, fracción IV del CFF, se tendrá por cumplida la obligación de señalar la clave en el RFC de la persona a favor de quien se expida el comprobante, cuando en el comprobante se consigne la clave en el RFC genérico a que se refiere la regla 2.7.1.26.
+ 	 	
+CFF 29, 29-A, RMF 2016 2.7.1.26.
+ 	 	 
+2.7.1.19.	 	
+CFDI expedidos por instituciones de seguros o fianzas
+ 	 	
+Para los efectos de los artículos 29 y 29-A del CFF, los CFDI que de forma trimestral expidan las instituciones de seguros o de fianzas, autorizadas para organizarse y funcionar como tales, respecto de las operaciones de coaseguro, reaseguro, corretaje de reaseguro, coafianzamiento o reafianzamiento deberán cumplir, además de los requisitos señalados en dichos artículos, con lo siguiente:
+
+I. Señalen en forma expresa y por separado el ISR causado o retenido por la operación de que se trate.
+
+II. Señalen el tipo de operación de que se trate y el número de contrato que corresponda a esa operación.
+
+Tratándose de operaciones de reaseguro y reafianzamiento en las que las instituciones mencionadas paguen primas a un residente en el extranjero sin establecimiento permanente en el país, este último deberá estar inscrito en el Registro General de Reaseguradoras Extranjeras para tomar Reaseguro y Reafianzamiento del País de la Secretaría.
+
+Las instituciones señaladas en esta regla que hagan uso del III.D “Uso de la facilidad de ensobretado ” del Anexo 20, podrán incluir las erogaciones correspondientes a las operaciones a que se refiere el primer párrafo de esta regla, en la referida Addenda, siempre que, además incluyan la información a que se refieren las fracciones I y II de la presente regla.
+ 	 	
+CFF 29, 29-A
