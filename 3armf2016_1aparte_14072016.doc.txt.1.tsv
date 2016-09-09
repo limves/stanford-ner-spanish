@@ -1,6 +1,6 @@
 Expedición	O
 de	O
-CFDI	DOC
+CFDI	O
 por	O
 pagos	O
 realizados	O
@@ -54,7 +54,7 @@ exhibición	O
 se	O
 emitirá	O
 un	O
-CFDI	DOC
+CFDI	O
 por	O
 el	O
 valor	O
@@ -75,7 +75,7 @@ posteriormente	O
 se	O
 expedirá	O
 un	O
-CFDI	DOC
+CFDI	O
 por	O
 cada	O
 uno	O
@@ -161,7 +161,7 @@ presente	O
 regla	O
 .	O
 Los	O
-contribuyentes	PERS
+contribuyentes	O
 que	O
 realicen	O
 el	O
@@ -185,7 +185,7 @@ de	O
 la	O
 expedición	O
 del	O
-CFDI	DOC
+CFDI	O
 ,	O
 incluso	O
 cuando	O
@@ -207,7 +207,7 @@ a	O
 la	O
 emisión	O
 del	O
-CFDI	DOC
+CFDI	O
 correspondiente	O
 ,	O
 deberá	O
@@ -252,7 +252,7 @@ con	O
 al	O
 menos	O
 un	O
-CFDI	DOC
+CFDI	O
 que	O
 incorpore	O
 el	O
@@ -274,7 +274,7 @@ parcialmente	O
 pagada	O
 ,	O
 el	O
-CFDI	DOC
+CFDI	O
 emitido	O
 por	O
 el	O
@@ -297,7 +297,7 @@ mediante	O
 la	O
 emisión	O
 de	O
-CFDI	DOC
+CFDI	O
 de	O
 egresos	O
 por	O
@@ -315,7 +315,7 @@ a	O
 la	O
 emisión	O
 del	O
-CFDI	DOC
+CFDI	O
 con	O
 ``	O
 Complemento	O
@@ -360,7 +360,7 @@ que	O
 fue	O
 emitido	O
 el	O
-CFDI	DOC
+CFDI	O
 .	O
 Obligaciones	O
 y	O
@@ -371,4 +371,4 @@ proveedores	O
 de	O
 certificación	O
 de	O
-CFDI	DOC
+CFDI	O
