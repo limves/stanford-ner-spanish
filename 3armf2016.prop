@@ -1,5 +1,5 @@
 #location of the training file
-trainFile = 3armf2016_1aparte_14072016.doc.txt.1.tsv
+trainFile = 3armf2016_1aparte.tsv 
  
 #location where you would like to save (serialize to) your
 #classifier; adding .gz at the end automatically gzips the file,
